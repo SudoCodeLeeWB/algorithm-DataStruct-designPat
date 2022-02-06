@@ -1,0 +1,39 @@
+introduction of this chapter.
+
+designing and analyzing the algorithm.
+1. how to specify the algorithm. 
+2. how to design the algorithm. 
+3.fundemental ideas used in algorithem analysis.
+
+
+chapter 1 :
+Overview of algo. 
+
+
+chapter 2 :
+First algo :  sorting a n numbers. 
+presudocode : the structure of the algorithm. 
+ -> insertion sort : incremental approach 
+ -> merge sort  : divide and conquer
+expression to notate the running time .
+
+
+chapter 3:
+about the notation :  asymptotic notation.
+presentation of mathematical notation.
+
+
+chapter 4:  
+divide and conquer -> further. 
+Additional divide and conquer algorithms , including the strassen's surprising method for multiplying two square matrices. 
+Solving recurrences m useful for describing the running times of recursicve algorithms. 
+The correctness of the master method. 
+
+
+chapter 5: 
+probailistic and randomized algorithms, 
+
+
+
+
+

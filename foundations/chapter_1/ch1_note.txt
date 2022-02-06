@@ -1,0 +1,62 @@
+"" THE Role of the algorithems in computing """
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+What are we going to learn in this book?
+
+1. what are algorithems
+
+1A)
+well - defined computational presudocode. 
+sequence of computational steps that transform the input into output. 
+
+Example )
+sorting algorithem
+input : a sepuence of N numbers . 
+output : a permutation of the input . 
+
+the input is called an instance of the sorting problem. 
+for every input instance, it halts with the correct output. 
+the correct algorithm solves the given computationl problem.
+
+
+Data Structures
+A way to store and organize data in order to facilitate access and modifications. 
+It is required to understand the strength and limitations of the Data Structures. 
+
+
+Technique , Hard problems. 
+If you cannot find the published algorithem, you need to design your own algorithm. 
+there are some problems that no efficient <fast> solution is known. For example , the np-complete. 
+some of the np probles appear in the real applications. 
+ex) the traveling salesmen problem. 
+
+
+parallelism :
+The multi threading approach of a algorithm. 
+Learning about the multi-threading algorithms. 
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+2. the role of the algorithems in computing. / Algorithem as a technology. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
